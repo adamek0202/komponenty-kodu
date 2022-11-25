@@ -1,2 +1,9 @@
-//Minecraft sign data block
-{Text1:'{"text":"Text of line 1","colour":"colour of line 1"}'}
+//Minecraft sign NBT data block
+//TEXT1: number indicates the nubmer of the line
+//text1 = line1
+//text2 = line 2
+//text3 = line 3
+//text4 = line 4
+//text value is the actual text, color value it the color of the text
+
+{Text1:'{"text":"text of line","colour":"red"}'}
