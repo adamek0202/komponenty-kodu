@@ -1,1 +1,1 @@
-Různé framgmenty kůdú a datových tagů pro Minecraft
+Různé framgmenty kódú programů a datových tagů pro Minecraft
